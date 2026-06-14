@@ -95,6 +95,10 @@
   display: none;
 }
 
+.content-hero.error {
+  border-color: hsl(0, 93%, 68%);
+}
+
 @media (max-width: 1023.98px) {
   .content-hero-title {
     font-size: 78px;
